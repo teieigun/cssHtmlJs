@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cecde071-c2ef-416a-b583-7e1251683eaa" name="Default Changelist" comment="初版作成">
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637321596227</updated>
       <workItem from="1637321615112" duration="211000" />
-      <workItem from="1637322116578" duration="715000" />
+      <workItem from="1637322116578" duration="2331000" />
     </task>
     <task id="LOCAL-00001" summary="初版作成">
       <created>1637322230377</created>
@@ -67,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637322790611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初版作成">
+      <created>1637322851296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637322851296</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,9 +100,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="初版作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2352" y="329" key="Vcs.Push.Dialog.v2" timestamp="1637322812259">
+    <state x="2352" y="329" key="Vcs.Push.Dialog.v2" timestamp="1637322865787">
       <screen x="1792" y="65" width="1920" height="1055" />
     </state>
-    <state x="2352" y="329" key="Vcs.Push.Dialog.v2/1792.65.1920.1055/0.25.1792.1010@1792.65.1920.1055" timestamp="1637322812259" />
+    <state x="2352" y="329" key="Vcs.Push.Dialog.v2/1792.65.1920.1055/0.25.1792.1010@1792.65.1920.1055" timestamp="1637322865787" />
   </component>
 </project>
