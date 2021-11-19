@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cecde071-c2ef-416a-b583-7e1251683eaa" name="Default Changelist" comment="初版作成">
-      <change afterPath="$PROJECT_DIR$/man.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +56,7 @@
       <updated>1637321596227</updated>
       <workItem from="1637321615112" duration="211000" />
       <workItem from="1637322116578" duration="2331000" />
-      <workItem from="1637328254611" duration="728000" />
+      <workItem from="1637328254611" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="初版作成">
       <created>1637322230377</created>
@@ -78,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637322851296</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="初版作成">
+      <created>1637329043690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637329043690</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初版作成">
+      <created>1637330049468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637330049468</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,9 +116,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="初版作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2352" y="329" key="Vcs.Push.Dialog.v2" timestamp="1637322865787">
-      <screen x="1792" y="65" width="1920" height="1055" />
+    <state x="2261" y="216" key="SettingsEditor" timestamp="1637329986318">
+      <screen x="1792" y="40" width="1920" height="1080" />
     </state>
+    <state x="2261" y="216" key="SettingsEditor/1792.40.1920.1080/0.25.1792.1095@1792.40.1920.1080" timestamp="1637329986318" />
+    <state x="2352" y="310" key="Vcs.Push.Dialog.v2" timestamp="1637330059750">
+      <screen x="1792" y="40" width="1920" height="1080" />
+    </state>
+    <state x="2352" y="310" key="Vcs.Push.Dialog.v2/1792.40.1920.1080/0.25.1792.1095@1792.40.1920.1080" timestamp="1637330059750" />
     <state x="2352" y="329" key="Vcs.Push.Dialog.v2/1792.65.1920.1055/0.25.1792.1010@1792.65.1920.1055" timestamp="1637322865787" />
   </component>
 </project>
