@@ -1,0 +1,72 @@
+body{
+    font-size: 12px;
+    color: #333333;
+}
+.page-top{
+    background-color: #333333;
+    height: 40px;
+    margin: auto;
+}
+.container{
+    width: 1210px;
+    margin: auto;
+}
+.page-top .top-lt{
+    float: left;
+    color: #bacbe6;
+
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.page-top .top-lt a{
+    color: #b0b0b0;
+    /*垂直对齐 1是设定padding，2是设定line-height,让line-height等于父标签*/
+    line-height: 40px;
+
+}
+.page-top .top-lt a:hover{
+    color: white;
+}
+.page-top .top-lt span{
+    vertical-align: middle;
+    color: #424242;
+    /*	相对于元素的字体大小（font-size）（2em 表示当前字体大小的 2 倍）*/
+    margin: 0.3em;
+}
+
+.page-top .top-gt{
+    float:right;
+    height: 40px;
+}
+.page-top .login{
+    float: left;
+}
+.page-top .top-gt a{
+    vertical-align: middle;
+    color: #b0b0b0;
+    line-height: 40px;
+}
+.page-top .top-gt a:hover{
+    color: white;
+}
+.page-top .login a{
+    color: #b0b0b0;
+}
+.page-top .login a:hover{
+    color: white;
+}
+
+.shopping-car{
+    margin-left: 30px;
+    float: right;
+}
+
+.page-top .top-lt .download{
+    position: relative;
+}
+.page-top .top-lt .downladbox{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
