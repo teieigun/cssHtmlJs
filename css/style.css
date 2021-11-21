@@ -118,3 +118,58 @@ body{
     top: 35px;
     display: none;
 }
+
+/*小米网站参照*/
+a:active, a:hover {
+    outline: 0
+}
+.site-topbar a:hover {
+    color: #fff
+}
+
+.page-top  .top-lt .topbar-download {
+    position: relative
+}
+
+.page-top .top-lt .topbar-download .appcode {
+    position: absolute;
+    top:25px;
+    left: 50%;
+    width: 124px;
+    height: 0px;
+    background: #fff;
+    margin-left: -55px;
+    -webkit-box-shadow: #aaa 0 1px 5px;
+    box-shadow: 0 1px 5px #aaa;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    line-height: 1;
+    overflow: hidden;
+    -webkit-transition: height .3s;
+    transition: height .3s
+}
+
+.page-top .top-lt .topbar-download img {
+    display: block;
+    margin: 18px auto 12px
+}
+
+.page-top .top-lt .topbar-download.active:before {
+    content: "";
+    top:20px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    margin-left: -8px;
+    border-width: 0 8px 8px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #fff
+}
+
+.page-top .top-lt .topbar-download.active .appcode {
+    height: 148px
+}
+

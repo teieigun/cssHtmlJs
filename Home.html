@@ -5,6 +5,7 @@
         <title>一个月教程</title>
         <!-- 共用部       -->
         <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="./css/test.css">
         <!--  ホームページ要css      -->
 <!--        <link rel="stylesheet" href="./css/index.css">-->
         <!--  bootstrap  -->
@@ -17,6 +18,21 @@
 
         <!-- 去掉浏览器的缺省的设置 -->
         <link rel="stylesheet" href="./css/reset.css">
+
+        <script>
+            $(function() {
+                $('#J_siteDownloadApp')
+                    // マウスポインターが画像に乗った時の動作
+                    .mouseover(function(e) {
+                        $('#J_siteDownloadApp').addClass("active");
+                    })
+                    // マウスポインターが画像から外れた時の動作
+                    .mouseout(function(e) {
+                        $('#J_siteDownloadApp').removeClass("active");
+                    });
+            });
+        </script>
+        </body>
     </head>
     <body>
     <div class="page-top">
@@ -47,6 +63,13 @@
                     <div class="downladbox">
                         <img src="img/download.png"/>
                     </div>
+                </a>
+                <span>|</span>
+                <a rel="nofollow" href="" target="_blank" id="J_siteDownloadApp" class="topbar-download">
+                    下载app
+                    <span class="appcode"><img src="img/download.png" alt="小米商城" width="90" height="90">
+                    小米商城APP
+                    </span>
                 </a>
                 <span>|</span>
                 <a href="">智能生活</a>
