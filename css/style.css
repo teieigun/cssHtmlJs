@@ -172,4 +172,9 @@ a:active, a:hover {
 .page-top .top-lt .topbar-download.active .appcode {
     height: 148px
 }
-
+.userinfo{
+    float: left;
+}
+.userinfo .user{
+    float: left;
+}
