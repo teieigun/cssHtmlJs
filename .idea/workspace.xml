@@ -10,135 +10,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cecde071-c2ef-416a-b583-7e1251683eaa" name="Default Changelist" comment="初版作成">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    <list default="true" id="774517af-c351-4b12-aed6-e49dee3ff196" name="Default Changelist" comment="初版作成">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="218TDkdMoYhelrPkBx8R8Dwif2P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="cecde071-c2ef-416a-b583-7e1251683eaa" name="Default Changelist" comment="" />
-      <created>1637321596227</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1637321596227</updated>
-      <workItem from="1637321615112" duration="211000" />
-      <workItem from="1637322116578" duration="2331000" />
-      <workItem from="1637328254611" duration="4027000" />
-      <workItem from="1637358337475" duration="17047000" />
-      <workItem from="1637414960208" duration="1111000" />
-      <workItem from="1637442862127" duration="9145000" />
-      <workItem from="1637477026448" duration="14544000" />
-      <workItem from="1637669766628" duration="45000" />
-      <workItem from="1637932732227" duration="2002000" />
-    </task>
-    <task id="LOCAL-00001" summary="初版作成">
-      <created>1637322230377</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1637322230377</updated>
-    </task>
-    <task id="LOCAL-00002" summary="初版作成">
-      <created>1637322790611</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1637322790611</updated>
-    </task>
-    <task id="LOCAL-00003" summary="初版作成">
-      <created>1637322851296</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1637322851296</updated>
-    </task>
-    <task id="LOCAL-00004" summary="初版作成">
-      <created>1637329043690</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1637329043690</updated>
-    </task>
-    <task id="LOCAL-00005" summary="初版作成">
-      <created>1637330049468</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1637330049468</updated>
-    </task>
-    <task id="LOCAL-00006" summary="初版作成">
-      <created>1637358851985</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1637358851985</updated>
-    </task>
-    <task id="LOCAL-00007" summary="初版作成">
-      <created>1637415072773</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1637415072773</updated>
-    </task>
-    <task id="LOCAL-00008" summary="初版作成">
-      <created>1637484922342</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1637484922343</updated>
-    </task>
-    <task id="LOCAL-00009" summary="初版作成">
-      <created>1637484946457</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1637484946457</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
+        <entry key="1">
           <value>
             <State />
           </value>
@@ -146,39 +36,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="初版作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="初版作成" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637493944032">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1637493944032" />
-    <state x="2261" y="216" key="SettingsEditor" timestamp="1637329986318">
-      <screen x="1792" y="40" width="1920" height="1080" />
-    </state>
-    <state x="2261" y="216" key="SettingsEditor/1792.40.1920.1080/0.25.1792.1095@1792.40.1920.1080" timestamp="1637329986318" />
-    <state x="560" y="260" key="Vcs.Push.Dialog.v2" timestamp="1637485001191">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="560" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1637485001191" />
-    <state x="2352" y="310" key="Vcs.Push.Dialog.v2/1792.40.1920.1080/0.25.1792.1095@1792.40.1920.1080" timestamp="1637330059750" />
-    <state x="2352" y="329" key="Vcs.Push.Dialog.v2/1792.65.1920.1055/0.25.1792.1010@1792.65.1920.1055" timestamp="1637322865787" />
-    <state x="670" y="254" width="579" height="530" key="find.popup" timestamp="1637479523618">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="670" y="254" width="579" height="530" key="find.popup/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1637479523618" />
-    <state x="2480" y="378" key="git4idea.merge.GitPullDialog" timestamp="1637496740681">
-      <screen x="1792" y="65" width="1920" height="1055" />
-    </state>
-    <state x="688" y="309" key="git4idea.merge.GitPullDialog/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1637485022715" />
-    <state x="4528" y="309" key="git4idea.merge.GitPullDialog/0.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1637358362710" />
-    <state x="2480" y="378" key="git4idea.merge.GitPullDialog/1792.65.1920.1055/0.25.1792.1010@1792.65.1920.1055" timestamp="1637496740681" />
-    <state x="623" y="226" key="search.everywhere.popup" timestamp="1637479517214">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="226" key="search.everywhere.popup/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1637479517214" />
   </component>
 </project>
