@@ -128,7 +128,7 @@ a:active, a:hover {
 }
 
 .page-top  .top-lt .topbar-download {
-    position: relative
+    position: relative;
 }
 
 .page-top .top-lt .topbar-download .appcode {
@@ -173,8 +173,30 @@ a:active, a:hover {
     height: 148px
 }
 .userinfo{
+    position: relative;
     float: left;
 }
 .userinfo .user{
     float: left;
+}
+
+.top-gt .userinfo  ul{
+    overflow: hidden;
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    background-color: #333333;
+    -webkit-transition: height .3s;
+    transition: height .3s;
+
+}
+.top-gt .userinfo  ul li a{
+    line-height: 30px;
+}
+.top-gt .userinfo .user:hover ul{
+    height: 160px;
+}
+.userinfo span{
+    margin-left: 5px;
+    margin-right: 5px;
 }
